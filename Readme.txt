@@ -1,7 +1,3 @@
-Here is an updated and modernized version of the README file for your Old Age Home Management System project, following current GitHub standards:  
-
----
-
 # Old Age Home Management System  
 
 A web-based system built using PHP and MySQL to efficiently manage the operations of an old age home.
@@ -79,5 +75,4 @@ This project is licensed under [MIT License](LICENSE).
 
 ## 📧 Contact  
 
-For any questions or feedback, feel free to contact [MURALI SAI V](mv8039@srmist.edu.in).  
-
+For any questions or feedback, feel free to contact [MURALI SAI V](mv8039@srmist.edu.in).
